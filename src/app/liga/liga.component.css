@@ -1,0 +1,55 @@
+
+.liga-panel {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.league-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: darkorange;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.league-text {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.league-img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+.match-list {
+  list-style: none;
+  padding: 0;
+}
+
+.match-list li {
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+
+.match-date {
+  font-size: 1rem;
+  font-weight: bold;
+  color: darkorange;
+}
+
+.match-teams {
+  font-size: 1.1rem;
+  color: #333;
+}
+

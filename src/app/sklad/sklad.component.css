@@ -1,0 +1,35 @@
+
+.player-card {
+  position: relative;
+  width: 250px; /* Nieco większa szerokość */
+  text-align: center;
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.player-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.player-number {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 3.5rem; /* Duży numer */
+  font-weight: bold;
+  color: white;
+  background-color: darkorange;
+  padding: 5px 12px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.player-name {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 15px;
+}
