@@ -1,0 +1,4 @@
+# Ignoruj katalog z zależnościami
+node_modules/
+dist/
+.env
